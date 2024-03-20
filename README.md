@@ -1,4 +1,4 @@
-# elliptical-cylinder-sphere-packing
+# Elliptical-cylinder-sphere-packing
 ## Introduction
 This project provides the codes for Monte Carlo Simulation of ellpitical cylinder sphere packing. We have designed the **rand_function** module, the MC **compress** simulation module and the **output** module, along with a **main.cpp** for the overall execution. To run the simulation, simply enter the `g++ -std=c++0x rand_function.h rand_function.xpp compress.h compress.cpp output.h output.cpp main.cpp -o result` on  a Linux system. This command will generate an executable file named 'result'. Running `./result` will initiate the simulation.
 ## Relevant parameter setting
