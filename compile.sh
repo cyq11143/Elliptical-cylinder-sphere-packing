@@ -1,0 +1,1 @@
+g++ -std=c++0x compress.h compress.cpp output.h output.cpp rand_function.h rand_function.cpp main.cpp -o result   #ps:若系统不支持最新的c++11，则用此命令
