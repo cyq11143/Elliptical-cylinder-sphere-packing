@@ -4,7 +4,7 @@ This project provides the codes for Monte Carlo Simulation of ellpitical cylinde
 ## Relevant parameter setting
 After initializing the program, you will need to set values for certain parameters in the interactive dialog box. Here, **r** signifies the ratio of the long diameter to the short diameter, while **a** corresponds to the short diameter. Additionally, **N_start** and **N_end** define the range within which the sphere number **N** will be iterated, and **N_loop** specifies the number of repetitions for each set of **(r, a, N)**.
 ## Other information
-In the **main.cpp** file, we have defined numerous parameters, including the pressure **p**, the rate of temperature decay, and the initial height **L**. To analyze different systems, you will need to adjust these parameters accordingly.
+In the **main.cpp** file, we have defined numerous parameters, including the pressure **p**, the rate of temperature decay, and the initial height **L**. To study different systems, you will need to adjust these parameters accordingly.
 
 
 
